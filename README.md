@@ -1,2 +1,8 @@
 # test_repo
-test
+
+Spring boot 
+Java
+JPA
+H2 DB
+PostrgeSQL
+
