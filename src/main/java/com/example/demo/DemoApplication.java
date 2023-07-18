@@ -10,6 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 
 		System.out.println("Test commit add");
+		System.out.println("Test commit add2");
 	}
 
 }
